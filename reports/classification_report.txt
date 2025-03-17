@@ -1,0 +1,20 @@
+Random Forest:
+              precision    recall  f1-score   support
+
+           0       0.80      1.00      0.89     17669
+           1       0.56      0.00      0.01      4437
+
+    accuracy                           0.80     22106
+   macro avg       0.68      0.50      0.45     22106
+weighted avg       0.75      0.80      0.71     22106
+
+XGBoost:
+              precision    recall  f1-score   support
+
+           0       0.80      1.00      0.89     17669
+           1       0.72      0.00      0.01      4437
+
+    accuracy                           0.80     22106
+   macro avg       0.76      0.50      0.45     22106
+weighted avg       0.78      0.80      0.71     22106
+
